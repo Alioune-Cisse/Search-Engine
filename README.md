@@ -1,2 +1,2 @@
 # Moteur de recherche
-<img src="index.png" alt="Alioune">
+<img src="alioune.png" alt="Alioune">
